@@ -5,7 +5,7 @@ This project was a project for my school assignment and is not for commercial us
 
 ## Overview
 
-The Oda Clone is an iOS app that allows users to browse through a selection of grocery items, add them to their cart, and view a summary of their order. Currently, the app does not support checkout, but this functionality may be added in the future.
+OdaClone is an iOS app that allows users to browse through a selection of grocery items, add them to their cart, and view a summary of their order. Currently, the app does not support checkout, but this functionality may be added in the future.
 
 ## Features
 
