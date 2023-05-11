@@ -1,7 +1,7 @@
 # OdaClone
 
 An iOS app clone of the Norwegian online grocery store Oda. With the Oda Clone, you can browse through a selection of grocery items and add them to your cart.
-This project was a project for my school assignment an is not for commercial use.
+This project was a project for my school assignment and is not for commercial use.
 
 ## Overview
 
